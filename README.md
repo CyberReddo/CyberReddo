@@ -1,16 +1,15 @@
-## Hi there 👋
+# My Portfolio - Alex Reddock [![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/alex-reddock-840012239)
 
-<!--
-**CyberReddo/CyberReddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I am a cyber security student currently studying at Sheffield Hallam University with my primary interests being networking and ethical hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+I am eager to both reinforce what I have learned during my studies of cyber security and to broaden my cyber security knowledge and skillset with the aim of transitioning to real world application and to become a cyber security analyst in a SOC
+
+## Projects
+
+| Project        | Description        |
+| -------------- | ------------------ |
+| **RSA Chat**   | A secure chat application built in Python using RSA encryption to ensure private communication between users |
